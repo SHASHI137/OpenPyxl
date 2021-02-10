@@ -28,3 +28,5 @@ wb.save("sample_file.xlsx")
 ```
 
 You can do anything with excel by using this module this will help you to create your data faster and in efficient manner.
+
+![excel](https://user-images.githubusercontent.com/61353037/107564070-e061aa80-6c07-11eb-8b8d-d999bc056183.PNG)
