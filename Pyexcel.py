@@ -29,9 +29,9 @@ def excel():
 	sheet.cell(row=1, column=2).value = "Course"
 	sheet.cell(row=1, column=3).value = "Semester"
 	sheet.cell(row=1, column=4).value = "Form Number"
-	sheet.cell(row=1, column=5).value = "Contact Number"
+	sheet.cell(row=1, column=5).value = "jbdjbewjfew Number"
 	sheet.cell(row=1, column=6).value = "Email id"
-	sheet.cell(row=1, column=7).value = "Address"
+	sheet.cell(row=1, column=7).value = "cnkjdbvkdfvb"
 
 
 # Function to set focus (cursor) 
