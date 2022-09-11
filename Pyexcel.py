@@ -25,7 +25,7 @@ def excel():
 
 	# write given data to an excel spreadsheet 
 	# at particular location 
-	sheet.cell(row=1, column=1).value = "Name"
+	sheet.cell(row=1, column=1).value = "cbsskdzjbc"
 	sheet.cell(row=1, column=2).value = "Course"
 	sheet.cell(row=1, column=3).value = "Semester"
 	sheet.cell(row=1, column=4).value = "Form Number"
